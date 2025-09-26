@@ -1,0 +1,25 @@
+From 5c18d8210ef00cd48823051198ea8e7c8755d40c Mon Sep 17 00:00:00 2001
+From: Kavinvarsha <kavinvarsha.janakiram@psiog.com>
+Date: Wed, 24 Sep 2025 17:12:57 +0530
+Subject: [PATCH 1/2] Update index.html
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index c45a89f..c0c26d1 100644
+--- a/index.html
++++ b/index.html
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html> 
+ <html> 
+ <head> 
+-  <title>My Assignment</title> 
++  <title>My Assignment1</title> 
+ </head> 
+ <body> 
+   <h1>Hello World</h1> 
+-- 
+2.50.1.windows.1
+

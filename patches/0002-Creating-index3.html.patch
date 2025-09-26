@@ -1,0 +1,41 @@
+From 2e1fe3b5b50ba4973229e08ad8cb3ca122d08389 Mon Sep 17 00:00:00 2001
+From: Kavinvarsha <kavinvarsha.janakiram@psiog.com>
+Date: Thu, 25 Sep 2025 09:31:14 +0530
+Subject: [PATCH 2/2] Creating index3.html
+
+---
+ index3.html | 13 +++++++++++++
+ text2.txt   |  1 +
+ 2 files changed, 14 insertions(+)
+ create mode 100644 index3.html
+ create mode 100644 text2.txt
+
+diff --git a/index3.html b/index3.html
+new file mode 100644
+index 0000000..ad8b48b
+--- /dev/null
++++ b/index3.html
+@@ -0,0 +1,13 @@
++<!DOCTYPE html> 
++<html> 
++<head> 
++
++  <title>My task</title> 
++
++</head> 
++<body> 
++  <h1>Hello everyone</h1> 
++  <h2>my life</h2>
++  <p>This is a sample.</p> 
++</body> 
++</html>
+diff --git a/text2.txt b/text2.txt
+new file mode 100644
+index 0000000..e732138
+--- /dev/null
++++ b/text2.txt
+@@ -0,0 +1 @@
++i am the bestest
+-- 
+2.50.1.windows.1
+
