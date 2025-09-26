@@ -1,4 +1,18 @@
+# Node modules
 node_modules/
-.env
-dist/
+
+# Logs
 *.log
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
